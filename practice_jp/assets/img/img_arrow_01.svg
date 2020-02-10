@@ -1,0 +1,17 @@
+<svg id="img_arrow_01.svg" xmlns="http://www.w3.org/2000/svg" width="10" height="60" viewBox="0 0 10 60">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #009072;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="楕円形_3" data-name="楕円形 3" class="cls-1" cx="5" cy="3" r="3"/>
+  <circle id="楕円形_3-2" data-name="楕円形 3" class="cls-1" cx="5" cy="19" r="3"/>
+  <circle id="楕円形_3-3" data-name="楕円形 3" class="cls-1" cx="5" cy="35" r="3"/>
+  <path id="多角形_1" data-name="多角形 1" class="cls-2" d="M683,1204.01l-5-9.01h10Z" transform="translate(-678 -1144)"/>
+</svg>

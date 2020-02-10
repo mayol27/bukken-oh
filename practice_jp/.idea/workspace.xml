@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad973da7-af04-4d06-8327-0e4fd77da6e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XKWAO4XU1gT1tOcOsTPMFnyhVv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunManager">
+    <configuration name="indext.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/practice_jp/indext.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.indext.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad973da7-af04-4d06-8327-0e4fd77da6e0" name="Default Changelist" comment="" />
+      <created>1580795121214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580795121214</updated>
+      <workItem from="1580795122491" duration="14651000" />
+      <workItem from="1580865193621" duration="535000" />
+      <workItem from="1580865894561" duration="16518000" />
+      <workItem from="1580884623339" duration="10941000" />
+      <workItem from="1580952569117" duration="25605000" />
+      <workItem from="1581037766209" duration="9689000" />
+      <workItem from="1581300315496" duration="19297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="351" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1581300371364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="351" y="285" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581300371364" />
+    <state x="639" y="200" key="run.anything.popup" timestamp="1581311705447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="639" y="200" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1581311705447" />
+    <state x="667" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1580883239061">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="667" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580883239061" />
+  </component>
+</project>
